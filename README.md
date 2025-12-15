@@ -1,10 +1,5 @@
 # Replication of "An Integrative Model of Cellular States, Plasticity, and Genetics for Glioblastoma" (Neftel et al., 2019)
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Scanpy](https://img.shields.io/badge/Scanpy-1.9%2B-green)
-![Status](https://img.shields.io/badge/Status-Completed-success)
-![License](https://img.shields.io/badge/License-MIT-green)
-
 ## 📖 Introduction
 
 This project aims to replicate the core analysis pipeline and key findings of the landmark study **"An Integrative Model of Cellular States, Plasticity, and Genetics for Glioblastoma"** by Neftel et al., published in *Cell* (2019).
